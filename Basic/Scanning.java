@@ -31,5 +31,9 @@ public class Scanning {
 
         // System.out.println("The byte is: " + b);
 
+
+        sc.close();
+
+
     }    
 }
