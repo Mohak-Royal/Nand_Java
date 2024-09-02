@@ -30,7 +30,7 @@ public class MethodOverloading {
     public static void main(String[] args) {
         Overload o = new Overload();
 
-        o.display(10,20);
+        o.display("mohak" , "patel");
     }
 }
 
